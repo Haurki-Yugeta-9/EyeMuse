@@ -1,6 +1,6 @@
-streamlit = "1.40.1"
-pillow = "11.0.0"
-scikit-learn = "1.5.2"
-numpy = "1.26.2"
-matplotlib = "3.9.2"
+streamlit
+pillow==11.0.0
+scikit-learn==1.5.2
+numpy==1.26.2
+matplotlib==3.9.2
 
